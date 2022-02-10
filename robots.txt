@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rezag.ir/sitemap.xml

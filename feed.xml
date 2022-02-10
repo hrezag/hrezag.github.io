@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>HamidReza Goodarzi | Blog</title>
+    <link href="https://rezag.ir/feed.xml" rel="self" />
+    <link href="https://rezag.ir" />
+    <updated>2021-09-14T21:14:47+04:30</updated>
+    <author>
+        <name>Hamidreza Goodarzi</name>
+    </author>
+    <id>https://rezag.ir</id>
+
+    <entry>
+        <title>20 Linux Basic Commands You Must Know</title>
+        <author>
+            <name>Hamidreza Goodarzi</name>
+        </author>
+        <link href="https://rezag.ir/20-linux-basic-commands-you-must-know/"/>
+        <id>https://rezag.ir/20-linux-basic-commands-you-must-know/</id>
+            <category term="linux"/>
+            <category term="command"/>
+            <category term="bash"/>
+
+        <updated>2021-09-14T21:14:47+04:30</updated>
+            <summary>
+                <![CDATA[
+                    When using a Linux operating system, you have to use a shell, which gives you access to the operating system's services. So learning a few basic commands will go a long way if you are considering using Linux. In this article, you’ll learn Twenty Newcomers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When using a Linux operating system, you have to use a shell, which gives you access to the operating system's services. So learning a few basic commands will go a long way if you are considering using Linux. In this article, you’ll learn Twenty Newcomers to Linux will undoubtedly benefit from these basic Linux commands.</p>
+<ol>
+<li><strong>pwd</strong> – Print working directory command in Linux</li>
+<li><strong>cd</strong> – Linux command to navigate through directories</li>
+<li><strong>cp</strong> – Similar usage as mv but for copying files in Linux</li>
+<li><strong>ls</strong> – The most frequently used command in Linux to list directories</li>
+<li><strong>mkdir</strong> – Command used to create directories in Linux</li>
+<li><strong>mv</strong> – Move or rename files in Linux</li>
+<li><strong>rm</strong> – Delete files or directories</li>
+<li><strong>touch</strong> – Create blank/empty files</li>
+<li><strong>man</strong> – Access manual pages for all Linux commands</li>
+<li><strong>uname</strong> – Linux command to get basic information about the OS</li>
+<li><strong>whoami</strong> – Get the active username</li>
+<li><strong>grep</strong> – Search for a string within an output</li>
+<li><strong>ssh</strong> – Secure Shell command in Linux</li>
+<li><strong>ps</strong> – Display active processes</li>
+<li><strong>wget</strong> – Direct download files from the internet</li>
+<li><strong>sudo</strong> – Command to escalate privileges in Linux</li>
+<li><strong>passwd</strong> – Create or update passwords for existing users</li>
+<li><strong>grep</strong> – Search for a string within an output</li>
+<li><strong>clear</strong> – Clear the terminal display</li>
+<li><strong>echo</strong> – Print any text that follows the command</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
