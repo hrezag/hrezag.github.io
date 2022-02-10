@@ -7,12 +7,12 @@
     {
         "path": "/20-linux-basic-commands-you-must-know/index.html",
         "type": "file",
-        "md5": "a53e3615d66306de37d743482822f1a3"
+        "md5": "42385b257d2f69b37690ad97eb5f75c3"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3715d449620fe0ce130b7d755ac31e1d"
+        "md5": "74e080bec1864c3808b743709763155f"
     },
     {
         "path": "amp",
@@ -42,7 +42,7 @@
     {
         "path": "/amp/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "db680b4ff55197cc36cb81151a1393e4"
+        "md5": "a2d8869339514ed222dbca1525d17e16"
     },
     {
         "path": "/amp/index.html",
@@ -187,7 +187,7 @@
     {
         "path": "/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "3e39bc02c8dcf18da163f5565a46a1a8"
+        "md5": "6638e17855b894b29fc6de8a7b740d49"
     },
     {
         "path": "feed.json",
@@ -202,7 +202,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e69937b789ff8dae45d8c24bb6161d5e"
+        "md5": "c4051f39ee166b48fc5ee98f1018ef98"
     },
     {
         "path": "media",
@@ -262,7 +262,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "2fcd7f35a8a7d9337c31ab35252d27e7"
+        "md5": "97b264a1cad2ba2e1faea121762fbbc6"
     },
     {
         "path": "sitemap.xml",
@@ -287,7 +287,7 @@
     {
         "path": "/tags/bash/index.html",
         "type": "file",
-        "md5": "e5980368663ac2eabb9ad829df76af32"
+        "md5": "5700d0af6cc7b8a662db36d088437db3"
     },
     {
         "path": "tags/command",
@@ -297,12 +297,12 @@
     {
         "path": "/tags/command/index.html",
         "type": "file",
-        "md5": "a75f92a6d1093d758eb1790556bff12c"
+        "md5": "2be9f6e4d8810b2720a01a999c529b66"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6ec2ab5e8dfb69feec383c83c8afee04"
+        "md5": "f4c4eef3a8e3cd44fd75422c73e24237"
     },
     {
         "path": "tags/linux",
@@ -312,6 +312,6 @@
     {
         "path": "/tags/linux/index.html",
         "type": "file",
-        "md5": "bc260a82d774d3b805ee730be0eb7d4a"
+        "md5": "6c6cb7539fcfaaf4979b3ee92f139326"
     }
 ]
