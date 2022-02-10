@@ -7,12 +7,12 @@
     {
         "path": "/20-linux-basic-commands-you-must-know/index.html",
         "type": "file",
-        "md5": "42385b257d2f69b37690ad97eb5f75c3"
+        "md5": "ade01fedeb459a57667c7783284f697f"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "74e080bec1864c3808b743709763155f"
+        "md5": "e4bba33425d6c8286e28c0a07f457b49"
     },
     {
         "path": "amp",
@@ -27,7 +27,7 @@
     {
         "path": "/amp/20-linux-basic-commands-you-must-know/index.html",
         "type": "file",
-        "md5": "ac47d1ee14bba955f2b25bec731a97e8"
+        "md5": "e60006daa4f24d96109ba433c9c41783"
     },
     {
         "path": "amp/authors",
@@ -42,12 +42,12 @@
     {
         "path": "/amp/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "a2d8869339514ed222dbca1525d17e16"
+        "md5": "423e72bb3e0fc41adf8661e84e480212"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "c6716ef968ec5179d59b5197776f4edd"
+        "md5": "cc60a236c29b062d288d1b238792f775"
     },
     {
         "path": "amp/tags",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/tags/bash/index.html",
         "type": "file",
-        "md5": "b1fd9690bbea710bf3e50a776e809084"
+        "md5": "98af6243dd0967a2c90eb0e9c14b2db7"
     },
     {
         "path": "amp/tags/command",
@@ -72,7 +72,7 @@
     {
         "path": "/amp/tags/command/index.html",
         "type": "file",
-        "md5": "8061d0a289d1208eb9aecd4710b9fc5e"
+        "md5": "bc05dfba5031bdb2cbcce9fad6909d4b"
     },
     {
         "path": "amp/tags/linux",
@@ -82,7 +82,7 @@
     {
         "path": "/amp/tags/linux/index.html",
         "type": "file",
-        "md5": "f790e6ec3c96723a649b5603f78f38a9"
+        "md5": "6e25723d938061508c769ebe547d74c8"
     },
     {
         "path": "assets",
@@ -187,22 +187,22 @@
     {
         "path": "/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "6638e17855b894b29fc6de8a7b740d49"
+        "md5": "5cf77b7804b74f59b313a1584a054088"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6cf868981cba8ca29f1bfe08a414afa7"
+        "md5": "842235ae16b37b5afdf58eb9970760ef"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d80d9e4e916479bac21c8dbfe4c99dfb"
+        "md5": "ccd4ede14adb49b46bbf23908a961a54"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c4051f39ee166b48fc5ee98f1018ef98"
+        "md5": "ebda56a584111a9e998a206c72ede6bf"
     },
     {
         "path": "media",
@@ -262,7 +262,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "97b264a1cad2ba2e1faea121762fbbc6"
+        "md5": "5c17f7e2e282830b400bdabab13d91b3"
     },
     {
         "path": "sitemap.xml",
@@ -287,7 +287,7 @@
     {
         "path": "/tags/bash/index.html",
         "type": "file",
-        "md5": "5700d0af6cc7b8a662db36d088437db3"
+        "md5": "9d06cb3d8e29631d75f78ae8e842b44a"
     },
     {
         "path": "tags/command",
@@ -297,12 +297,12 @@
     {
         "path": "/tags/command/index.html",
         "type": "file",
-        "md5": "2be9f6e4d8810b2720a01a999c529b66"
+        "md5": "328173ced5ecab60507a5172f7ad1b0a"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f4c4eef3a8e3cd44fd75422c73e24237"
+        "md5": "d3f796ce07d4feea1a77a9978936155b"
     },
     {
         "path": "tags/linux",
@@ -312,6 +312,6 @@
     {
         "path": "/tags/linux/index.html",
         "type": "file",
-        "md5": "6c6cb7539fcfaaf4979b3ee92f139326"
+        "md5": "c94775b941238cbc95defb541ebdcdc9"
     }
 ]
