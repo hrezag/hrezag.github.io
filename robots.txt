@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://rezag.ir/sitemap.xml
+Sitemap: https://en.rezag.ir/sitemap.xml

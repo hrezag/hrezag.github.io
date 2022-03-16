@@ -7,12 +7,12 @@
     {
         "path": "/20-linux-basic-commands-you-must-know/index.html",
         "type": "file",
-        "md5": "ade01fedeb459a57667c7783284f697f"
+        "md5": "779a842b7b6f3c97767e39d9cb181c86"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "e4bba33425d6c8286e28c0a07f457b49"
+        "md5": "9b4473e439917c23339f11e3be4b929e"
     },
     {
         "path": "amp",
@@ -27,7 +27,7 @@
     {
         "path": "/amp/20-linux-basic-commands-you-must-know/index.html",
         "type": "file",
-        "md5": "e60006daa4f24d96109ba433c9c41783"
+        "md5": "ee8bdb3d3ee4ca5fb26fa195f50d29ec"
     },
     {
         "path": "amp/authors",
@@ -42,12 +42,12 @@
     {
         "path": "/amp/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "423e72bb3e0fc41adf8661e84e480212"
+        "md5": "0e6012ff9bda7484c3f12ef2e8341bcf"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "cc60a236c29b062d288d1b238792f775"
+        "md5": "8786cc8f18d7a70165db1c75ca2ddc16"
     },
     {
         "path": "amp/tags",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/tags/bash/index.html",
         "type": "file",
-        "md5": "98af6243dd0967a2c90eb0e9c14b2db7"
+        "md5": "c0caa15dc1d2c2e511194f59dd332089"
     },
     {
         "path": "amp/tags/command",
@@ -72,7 +72,7 @@
     {
         "path": "/amp/tags/command/index.html",
         "type": "file",
-        "md5": "bc05dfba5031bdb2cbcce9fad6909d4b"
+        "md5": "a02709d4c2c535199a2b51ee294ef564"
     },
     {
         "path": "amp/tags/linux",
@@ -82,7 +82,7 @@
     {
         "path": "/amp/tags/linux/index.html",
         "type": "file",
-        "md5": "6e25723d938061508c769ebe547d74c8"
+        "md5": "6edc547eb4fcff77923d7302020ec506"
     },
     {
         "path": "assets",
@@ -187,22 +187,22 @@
     {
         "path": "/authors/hamidreza-goodarzi/index.html",
         "type": "file",
-        "md5": "5cf77b7804b74f59b313a1584a054088"
+        "md5": "2ea61cc0860a7dcf3820695749904478"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "842235ae16b37b5afdf58eb9970760ef"
+        "md5": "ebea26a0b938624f04eaece25fca58ed"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ccd4ede14adb49b46bbf23908a961a54"
+        "md5": "de7252d15d7e44c44b67f845d77259e7"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ebda56a584111a9e998a206c72ede6bf"
+        "md5": "d85c881153c020239bc994b719d09162"
     },
     {
         "path": "media",
@@ -257,17 +257,17 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "d888a32e9593f3a7e33fbd43d111298a"
+        "md5": "6465b7505ef60ea38894a53656201294"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "5c17f7e2e282830b400bdabab13d91b3"
+        "md5": "e32e72d608f1d5363fff66a5fcb80957"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "69e782da8fff959b0fcfd9dd75919333"
+        "md5": "464ed60219ed3ae86e388eb76cccf66d"
     },
     {
         "path": "sitemap.xsl",
@@ -287,7 +287,7 @@
     {
         "path": "/tags/bash/index.html",
         "type": "file",
-        "md5": "9d06cb3d8e29631d75f78ae8e842b44a"
+        "md5": "93c44ddd6a1664242f0c4a3b710b4497"
     },
     {
         "path": "tags/command",
@@ -297,12 +297,12 @@
     {
         "path": "/tags/command/index.html",
         "type": "file",
-        "md5": "328173ced5ecab60507a5172f7ad1b0a"
+        "md5": "e45198d6be122fc6c0efa5688343a1e2"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "d3f796ce07d4feea1a77a9978936155b"
+        "md5": "e65856de006f047a7c310a89ed0244de"
     },
     {
         "path": "tags/linux",
@@ -312,6 +312,6 @@
     {
         "path": "/tags/linux/index.html",
         "type": "file",
-        "md5": "c94775b941238cbc95defb541ebdcdc9"
+        "md5": "5499a8bd21b4caa6f89c0100e197dc88"
     }
 ]

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rezag.ir/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://en.rezag.ir/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://rezag.ir/</loc>
+<loc>https://en.rezag.ir/</loc>
 </url>
 <url>
-<loc>https://rezag.ir/20-linux-basic-commands-you-must-know/</loc>
+<loc>https://en.rezag.ir/20-linux-basic-commands-you-must-know/</loc>
 <lastmod>2021-09-14T21:14:47+04:30</lastmod>
 </url>
 </urlset>

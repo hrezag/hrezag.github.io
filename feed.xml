@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>HamidReza Goodarzi&#x27;s Blog</title>
-    <link href="https://rezag.ir/feed.xml" rel="self" />
-    <link href="https://rezag.ir" />
+    <link href="https://en.rezag.ir/feed.xml" rel="self" />
+    <link href="https://en.rezag.ir" />
     <updated>2021-09-14T21:14:47+04:30</updated>
     <author>
         <name>Hamidreza Goodarzi</name>
     </author>
-    <id>https://rezag.ir</id>
+    <id>https://en.rezag.ir</id>
 
     <entry>
         <title>20 Linux Basic Commands You Must Know</title>
         <author>
             <name>Hamidreza Goodarzi</name>
         </author>
-        <link href="https://rezag.ir/20-linux-basic-commands-you-must-know/"/>
-        <id>https://rezag.ir/20-linux-basic-commands-you-must-know/</id>
+        <link href="https://en.rezag.ir/20-linux-basic-commands-you-must-know/"/>
+        <id>https://en.rezag.ir/20-linux-basic-commands-you-must-know/</id>
             <category term="linux"/>
             <category term="command"/>
             <category term="bash"/>
